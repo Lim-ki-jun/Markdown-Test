@@ -19,7 +19,7 @@
  * 번역기의 변천과정
    * 최근 몇년간 Transformer 모델 기반 NMT( neural machine translation )사용
    * 모델의 견고성을 개선하기 위한 방법으로 Adversarial Generation (AdvGen)을 사용
-    * Recurrent Neural Network(초창기) -> Transformer(2017) -> AdvGen(2019.07.29)
+     * Recurrent Neural Network(초창기) -> Transformer(2017) -> AdvGen(2019.07.29)
 
 * 네이버 파파고(Naver Papago)
   * NMT (Neural Machine Translation)로 텍스트를 번역
