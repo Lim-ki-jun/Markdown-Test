@@ -192,3 +192,53 @@
 [가천대 길병원, 부산대학교병원 IBM 왓슨](https://biz.chosun.com/site/data/html_dir/2017/01/24/2017012401959.html)
 
 [가천대 길병원](https://medigatenews.com/news/747834046)
+-----------------------------------------------------------------------------
+# __<이미지>__
+
+![구글 번역기 AdvGAN](https://feedforward.github.io/blog/assets/img/ddfsfsafdafas.png)
+
+![네이버 파파고](https://image.chosun.com/sitedata/image/201611/08/2016110802419_1.jpg)
+
+![챗봇 심심이](https://img7.yna.co.kr/etc/inner/KR/2017/10/13/AKR20171013150500887_13_i_P4.jpg)
+
+![google voice kit v2](https://mblogthumb-phinf.pstatic.net/MjAxODAzMjBfMTQ3/MDAxNTIxNTI3MjExODUw.xC5OQ9BX11FvritrMQ-nDXsu8TkSOM9iEIWo7NxQR_Qg.oK5P-Dv_F5y4jDW6_t9lRqbFPVdAD4rqXBbB-gxlU2kg.PNG.roboholic84/image_6825359401521527158183.png?type=w800)
+
+![삼성 무풍에어컨 빅스비](http://image.etland.co.kr/nas/cdn/editor/attach/2018/05/25/ec89978c-2142-45d1-a49d-8bc1a4fabc96.jpg)
+
+![가상비서 음성인식 챗봇](http://m.ddaily.co.kr/data/photos/cdn/20180731/art_1532932291.png)
+
+![구글 클라우드 비전](https://cloud.google.com/vision/docs/images/document_text_highlighted.png?hl=ko)
+
+![애플 Face ID](http://www.digitaltoday.co.kr/news/photo/201710/112706_161081_4714.jpg)
+
+![삼성 AR 이모지](https://image.chosun.com/sitedata/image/201803/05/2018030502466_0.jpg)
+
+![위변조 판별기술](http://www.bigbangangels.com/wp-content/uploads/2019/01/img_20.jpg)
+
+![뷰노메이드 본에이지](http://img.etoday.co.kr/pto_db/2018/05/20180516105110_1213502_350_233.jpg)
+
+![테슬라 자율주행](http://www.autoherald.co.kr/news/photo/201804/31049_47407_3438.png)
+
+![스마트 레이더 시스템](https://postfiles.pstatic.net/MjAyMDA0MTRfMjIg/MDAxNTg2ODQ5NzUzNDA1.Fr4-d767JAgyx58zO0woKPQqhnLVwsiZ707R6yfcvokg.2xkg2Sgi0TUw3Bf82tDLsuOGaSpVwZ2M0UQ7gIv_z0gg.JPEG.kpfisnet/01_02.jpg?type=w773)
+
+![SOS랩 라이다](http://soslab.co/wp-content/uploads/2020/01/CES-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%9D%B4%EB%AF%B8%EC%A7%80-03-1.png)
+
+![카네비컴 라이다](http://www.elec4.co.kr/photo/2018/20180103(0).jpg)
+
+![스마트레이더시스템](https://www.kipost.net/news/photo/201911/202280_42732_2339.png)
+
+![퓨리오사AI 반도체](https://image.slidesharecdn.com/241deview2018furiosafinal-181012001208/95/241-ai-33-638.jpg?cb=1539307310)
+
+![카카오 아이](http://image.dongascience.com/Photo/2017/09/15058805908355.jpg)
+
+![LG ThinQ와 Deep ThinQ](http://thinq.developer.lge.com/application/thinq_platform/img/feature/Architecture.png)
+
+![LG R9 코드제로](https://www.lge.co.kr/uploads/product/media/2020/01/r969ia.akor/usp_0102_s2.jpg)
+
+![네이버 쇼핑 상품카테고리 분류_feature](https://d2.naver.com/content/images/2019/04/helloworld-201904-tensorflow_navershopping-05.png)
+
+![네이버 쇼핑 상품카테고리 분류](https://d2.naver.com/content/images/2019/04/helloworld-201904-tensorflow_navershopping-11.png)
+
+![중국 코로나 진단세트](http://www.aitimes.kr/news/photo/202003/15514_16806_423.jpg)
+
+![가천대 길병원 왓슨](http://www.medigatenews.com/file/news/42074)
