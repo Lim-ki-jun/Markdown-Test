@@ -17,8 +17,7 @@
 ## __1. 언어__
 * 구글 번역기(Google Translate)
  * 번역기의 변천과정
-
-   최근 몇년간 Transformer 모델 기반 NMT( neural machine translation )사용
+  * 최근 몇년간 Transformer 모델 기반 NMT( neural machine translation )사용
 
    모델의 견고성을 개선하기 위한 방법으로 Adversarial Generation (AdvGen)을 사용
  * Recurrent Neural Network(초창기) -> Transformer(2017) -> AdvGen(2019.07.29)
