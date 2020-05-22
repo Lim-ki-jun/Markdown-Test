@@ -19,35 +19,35 @@
  * 번역기의 변천과정
    * 최근 몇년간 Transformer 모델 기반 NMT( neural machine translation )사용
    * 모델의 견고성을 개선하기 위한 방법으로 Adversarial Generation (AdvGen)을 사용
-     * Recurrent Neural Network(초창기) -> Transformer(2017) -> AdvGen(2019.07.29)
+   * Recurrent Neural Network(초창기) -> Transformer(2017) -> AdvGen(2019.07.29)
 
 * 네이버 파파고(Naver Papago)
   * NMT (Neural Machine Translation)로 텍스트를 번역
   * SMT (Statistical Machine Translation) 번역도 지원함
-   * 인공신경망 기반과 통계기반의 차이로 속도는 SMT가 더 빠르나 정확도는 NMT가 좋음.
+    * 인공신경망 기반과 통계기반의 차이로 속도는 SMT가 더 빠르나 정확도는 NMT가 좋음.
 
 * 심심이(Chat-bot, 대화형 기반 자연어처리 챗봇)
   * 2000년대 하드코딩으로 짜여졌던 챗봇, 현재는 딥러닝 기술을 적용
   * 욕설과 선정적인 언어로 이슈가 되었음(CNN에서 착안한 AICR Engine V2 :욕설필터 사용)
   * 현재 문장 분류 모델(Deep Bad Sentence Classifier) 한국어 기준 F1 score 0.98 이상의 높은 정확도를 가짐
-  * 아마존 알렉사는 데이터 5만건, 심심이는 1억2천만건 보유
+    * 아마존 알렉사는 데이터 5만건, 심심이는 1억2천만건 보유
 
 ## __2. 음성__
 * 구글 AI Voice kit
- * 구글 Google assistant의 프로토타입(chat-bot, 음성인식 기반 자연어처리 챗봇)
- * 라즈베리파이를 활용한 IoT + Chatbot을 통해 음성인식기능 체험 가능
- * 음성인식에 필요한 하드웨어와 소프트웨어 구성을 확인하고 셋팅 가능
+  * 구글 Google assistant의 프로토타입(chat-bot, 음성인식 기반 자연어처리 챗봇)
+  * 라즈베리파이를 활용한 IoT + Chatbot을 통해 음성인식기능 체험 가능
+  * 음성인식에 필요한 하드웨어와 소프트웨어 구성을 확인하고 셋팅 가능
 
 * 삼성 무풍에어컨
- * 빅스비 탑재 에어컨
+  * 빅스비 탑재 에어컨
 
 * 가상비서(chat-bot, 음성인식 기반 자연어처리 챗봇)
- * 삼성 빅스비
-   * 2017.08 갤럭시 S8부터 탑재
-   * 인공지능 스피커 개발부분 후발주자
+  * 삼성 빅스비
+    * 2017.08 갤럭시 S8부터 탑재
+    * 인공지능 스피커 개발부분 후발주자
  
  * 구글 어시스턴스
-   * 구글 홈과 스마트가전서비스 및 안드로이드(OS) 스마트폰 탑재, 선두주자
+    * 구글 홈과 스마트가전서비스 및 안드로이드(OS) 스마트폰 탑재, 선두주자
    
  * 아마존 알렉사
  * 마이크로소프트 코타나
