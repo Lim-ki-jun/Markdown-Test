@@ -22,8 +22,8 @@
    * Recurrent Neural Network(초창기) -> Transformer(2017) -> AdvGen(2019.07.29)
 
 * 네이버 파파고(Naver Papago)
- * NMT (Neural Machine Translation)로 텍스트를 번역
- * SMT (Statistical Machine Translation) 번역도 지원함
+  * NMT (Neural Machine Translation)로 텍스트를 번역
+  * SMT (Statistical Machine Translation) 번역도 지원함
    * 인공신경망 기반과 통계기반의 차이로 속도는 SMT가 더 빠르나 정확도는 NMT가 좋음.
 
 * 심심이(Chat-bot, 대화형 기반 자연어처리 챗봇)
